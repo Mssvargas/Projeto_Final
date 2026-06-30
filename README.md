@@ -2,6 +2,8 @@
 
 Projeto de setup profissional de Python desenvolvido durante a Pós Tech, demonstrando o uso de **uv** para gerenciamento de ambiente, dependências e variáveis de ambiente seguras.
 
+> 💡 **Sobre o projeto:** esta é a simulação de um ambiente real de engenharia de dados. Use o código como uma aula para entender como configurar um setup profissional e subir no GitHub.
+
 ## Tecnologias
 
 - **Python** >= 3.12
